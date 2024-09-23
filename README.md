@@ -28,7 +28,7 @@
 <br>
 <div align="center">
   <h1 align="center">Social Media's</h1>
-  <a href="https://twitter.com/abdousalamally/" target="_blank">
+  <a href="https://twitter.com/abdoulsalamally/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://www.linkedin.com/in/abdoulsalamally/" target="_blank">
